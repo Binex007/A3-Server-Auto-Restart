@@ -1,4 +1,4 @@
-private["_restartTime", "_remainingTime"];
+private["_restartTime"];
 
 // AUTORESTART TIME IN MINUTES
 // 60 = 1hr
